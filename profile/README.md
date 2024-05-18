@@ -1,2 +1,2 @@
 ## WARP Project (W.I.P) 👋
-## Worldwide Access and Relay Protocol (WARP) on [Scratch](https://scratch.mit.edu/)
+## WARP Address Resolval Program (WARP) on [Scratch](https://scratch.mit.edu/)
